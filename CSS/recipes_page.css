@@ -1,0 +1,29 @@
+h1{
+    color: brown;
+    font-weight: 600;
+}
+h2{
+    color : red;
+    font-weight: 400;
+}
+h3{
+    color : yellow;
+    font-weight: 300;
+}
+h4{
+    color:aqua;
+    font-weight: 200;
+
+}
+img{
+    height:auto;
+    width: 400px;
+}
+ul{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+ol{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
